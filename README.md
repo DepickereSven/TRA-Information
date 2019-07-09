@@ -1,3 +1,5 @@
+# Moved to [TRATimetableData](https://github.com/DepickereSven/TRATimetableData)
+
 # TRA railway information
 
 This repo was originally forked from [g0v-data](https://github.com/g0v-data/railway)
